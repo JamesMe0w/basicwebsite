@@ -1,2 +1,2 @@
-# basicwebsite
+# BasicWebsite
 Basic Website Template.
